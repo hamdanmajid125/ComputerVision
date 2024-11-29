@@ -1,0 +1,6 @@
+The process is pretty simple:
+
+Grayscale the image;
+Invert the colors of it;
+Blur the inverted image;
+Apply the Dodge blend to the blurred and grayscale image.
